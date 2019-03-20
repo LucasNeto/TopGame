@@ -2,22 +2,15 @@ package com.lucassantana.topgame.bo
 
 
 import android.content.Context
-import android.content.SharedPreferences
-import android.os.AsyncTask
-import android.util.JsonReader
 import android.widget.Toast
 import com.android.volley.Request
 import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
 import com.android.volley.toolbox.Volley
 import com.google.gson.Gson
-import com.lucassantana.topgame.bean.Box
-import com.lucassantana.topgame.bean.Game
 import com.lucassantana.topgame.bean.GameInfo
-import com.lucassantana.topgame.bean.Logo
 import com.lucassantana.topgame.rest.*
 import org.json.JSONObject
-import java.net.URL
 import com.google.gson.GsonBuilder
 import com.lucassantana.topgame.R
 import com.lucassantana.topgame.prefs.Prefs

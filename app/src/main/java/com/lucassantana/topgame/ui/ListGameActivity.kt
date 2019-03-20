@@ -3,12 +3,8 @@ package com.lucassantana.topgame.ui
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.GridLayoutManager
-import android.support.v7.widget.LinearLayoutManager
 import com.lucassantana.topgame.R
-import com.lucassantana.topgame.bean.Box
-import com.lucassantana.topgame.bean.Game
 import com.lucassantana.topgame.bean.GameInfo
-import com.lucassantana.topgame.bean.Logo
 import com.lucassantana.topgame.bo.GameBO
 import com.lucassantana.topgame.prefs.Prefs
 import com.lucassantana.topgame.rest.RestCallback

@@ -7,6 +7,7 @@ import com.lucassantana.topgame.bean.GameInfo
 import com.lucassantana.topgame.bo.GameBO
 import com.lucassantana.topgame.rest.Volley.VolleySingleton
 import kotlinx.android.synthetic.main.activity_detail_game.*
+
 import kotlinx.android.synthetic.main.recycleview_row_game.*
 
 class DetailGameActivity : AppCompatActivity() {
