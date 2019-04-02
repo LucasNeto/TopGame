@@ -4,7 +4,7 @@ import android.content.Context
 import android.content.SharedPreferences
 
 /**
- * Created by capgemini on 19/03/2019.
+ * Created by Lucas Santana on 19/03/2019.
  */
 
 class Prefs {

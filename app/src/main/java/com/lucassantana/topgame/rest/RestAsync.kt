@@ -8,7 +8,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 /**
- * Created by capgemini on 18/03/2019.
+ * Created by Lucas Santana on 18/03/2019.
  */
 
 open class RestAsync : AsyncTask<RestAsyncParams, Int, String>() {

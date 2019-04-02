@@ -16,7 +16,7 @@ import com.lucassantana.topgame.ui.DetailGameActivity
 
 
 /**
- * Created by capgemini on 16/03/2019.
+ * Created by Lucas Santana on 16/03/2019.
  */
 
 

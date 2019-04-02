@@ -13,7 +13,7 @@ import com.lucassantana.MyApplication
 
 
 /**
- * Created by capgemini on 18/03/2019.
+ * Created by Lucas Santana on 18/03/2019.
  */
 
 class VolleySingleton private constructor() {
